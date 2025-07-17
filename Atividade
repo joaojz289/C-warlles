@@ -1,0 +1,13 @@
+
+#include <stdio.h>
+
+int main()
+{
+    printf("\t total = 100%%\n");
+    printf("\t IVA = 17%%\n");
+    printf("\t IRS = 15%%\n");
+    printf("\t ------------\n");
+    printf("\t Liq. = 68%%");
+    
+    return 0;
+}
